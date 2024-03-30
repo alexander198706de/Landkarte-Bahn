@@ -1,0 +1,19 @@
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn_MarkupCompile.cache
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn_MarkupCompile.lref
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\bin\Debug\netcoreapp3.1\Landkarte Bahn.exe
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\bin\Debug\netcoreapp3.1\Landkarte Bahn.deps.json
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\bin\Debug\netcoreapp3.1\Landkarte Bahn.runtimeconfig.json
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\bin\Debug\netcoreapp3.1\Landkarte Bahn.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\bin\Debug\netcoreapp3.1\Landkarte Bahn.dll
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\bin\Debug\netcoreapp3.1\Landkarte Bahn.pdb
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.g.resources
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.dll
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.pdb
+C:\Users\alexa\source\repos\Landkarte Bahn\Landkarte Bahn\obj\Debug\netcoreapp3.1\Landkarte Bahn.genruntimeconfig.cache
